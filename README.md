@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sabillillah</h1>
 
 # 💫 About Me:
-I am a third-year computer engineering student at Politeknik Negeri Semarang, passionate about exploring the programming on android platform, and solve the problem.
+I am a third-year computer engineering student at Politeknik Negeri Semarang, passionate about exploring the programming on android platform, AI integration technologies, and solve the problem.
 
 ## 🚀 What I'm Up To
 - 💻 Building Mobile application with SQL or NoSQL integration
