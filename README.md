@@ -4,7 +4,8 @@
 I am a third-year computer engineering student at Politeknik Negeri Semarang, passionate about exploring the programming on android platform, and solve the problem.
 
 ## 🚀 What I'm Up To
-- 💻 Building Flutter application with SQL or NoSQL integration
+- 💻 Building Mobile application with SQL or NoSQL integration
+- Building Personal AI integration with MCP
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabillillah/)
